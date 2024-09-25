@@ -18,8 +18,6 @@ issues as possible.
 
 `coder/coder` is for end-users to connect with Coder engineers and product managers. Our most important issues will always live there. Bugs/improvements for released features should always live there.
 
-Please write issues in `coder/coder` in a way that engages users.
-
 ## rules of thumb
 
 1. A public issue (even in this repo) should never link to a private resource such as a Notion page, Slack thread, etc.
@@ -27,6 +25,8 @@ Please write issues in `coder/coder` in a way that engages users.
    relevant information into the issue.
 1. All issues, regardless of repository, should have a body.
 1. If you have an issue and think there's basically zero chance a user would react/comment on it, put it here.
+1. Strive to represent as much of your coder/coder work on coder/coder. Try to
+make that work interesting to users.
 
 ## this is weird
 
